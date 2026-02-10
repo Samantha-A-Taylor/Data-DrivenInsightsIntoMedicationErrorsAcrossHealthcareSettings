@@ -33,7 +33,7 @@ This project analyzes real-world medication safety incident data from the Nation
 
 ## Data 📂
 
-* **Source:** National Reporting and Learning System (NRLS) medication safety incident data, England and Wales, 2016–2021  
+* **Source:** [National Reporting and Learning System (NRLS) medication safety incident data, England and Wales, 2016–2021](https://researchdata.bath.ac.uk/1307/?utm_source=chatgpt.com)
 * **Format:** CSV  
 
 ## License
