@@ -1,8 +1,7 @@
 pandas
+matplotlib
 seaborn
-matplotlib.pyplot
-matplotlib.cm
-jupyter
 squarify
+ipython-sql
 csv
-sqlite3
+sqlite3  # built-in, but listed for clarity
