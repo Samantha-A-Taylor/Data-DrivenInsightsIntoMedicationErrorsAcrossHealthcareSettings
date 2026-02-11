@@ -1,4 +1,4 @@
-# Analysis
+# HOW TO USE
 
 This repository contains a modular Python project for analyzing medication error incidents from NRLS data. It includes data cleaning, SQL queries, and visualization scripts.
 
