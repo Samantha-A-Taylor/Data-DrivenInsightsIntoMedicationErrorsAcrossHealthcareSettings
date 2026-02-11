@@ -1,0 +1,7 @@
+pandas
+seaborn
+matplotlib.pyplot
+matplotlib.cm
+squarify
+csv
+sqlite3
