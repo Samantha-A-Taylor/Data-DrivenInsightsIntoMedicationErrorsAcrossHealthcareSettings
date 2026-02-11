@@ -2,6 +2,7 @@ pandas
 seaborn
 matplotlib.pyplot
 matplotlib.cm
+jupyter
 squarify
 csv
 sqlite3
